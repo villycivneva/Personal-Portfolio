@@ -1,0 +1,36 @@
+
+
+.bg-dark {
+    background-color: #C77191!important;
+}
+
+
+.btn-primary {
+    background-color: #C77191!important;
+    border: none;
+}
+
+.navbar-brand {
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.display-3 {
+    font-family: 'New Century Schoolbook', 'TeX Gyre Schola', serif
+}
+
+.btn {
+    background-color: #C77191;
+    border: none;
+    font-weight: 400;
+}
+
+.container img {
+    margin-right: 20px;
+    height: 208px;
+    width: 196px;
+}
+
+.container {
+    color: #55182C;
+}

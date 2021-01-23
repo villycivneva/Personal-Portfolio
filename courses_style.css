@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    color: #55182C;
+    margin: 0;
+}
+
+header {
+    background-color: #C77191;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+section {
+    margin-top: 90px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+  
+
+.data_table_curiosity_courses, tr, td {
+    border: 1px;
+    border-style: dotted;
+    border-color: #3AB1AE; 
+    margin: 0 auto;
+    text-align: center;
+}
+
+.data_table_university_courses, tr, td {
+    border: 1px;
+    border-style: dotted;
+    border-color: #3AB1AE;
+    margin: 0 auto;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+footer {
+    background-color: #C77191;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    font-weight: bolder;
+    margin-top: 98px;
+} 
+

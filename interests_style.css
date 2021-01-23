@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+    color: #55182C;
+    margin: 0;
+    font-size: 18px;
+    text-align: center;
+}
+        
+header {
+    background-color: #C77191;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+section {
+    margin-top: 130px;
+}
+
+.data_table, tr, td {
+    border: 1px;
+    border-style: dotted;
+    border-color: #3AB1AE;
+}
+
+.data_table {
+    margin-left: 60px;
+    margin-right: 60px;: 
+    margin: 0 auto;
+    margin-bottom: 500px;
+}
+
+footer {
+    background-color: #C77191;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 15px;
+    font-weight: bolder;
+    margin-top: 146px;
+} 
